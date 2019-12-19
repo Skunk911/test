@@ -1,1 +1,2 @@
-spring-cloud-config-dev.yml
+condig:
+  hello:123
